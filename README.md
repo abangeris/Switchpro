@@ -1,2 +1,0 @@
-# Switchpro
-BOT PROTECT 10 ASSIST + 4 ANTI JS
