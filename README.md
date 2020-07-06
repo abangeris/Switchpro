@@ -42,9 +42,6 @@
 - `JANGAN DIPERJUAL BELIKAN!!!`
 - `KEMBANG KAN LAH SC INI UNTUK KEBAIKAN ORANG BANYAK`
 - `CREATOR: ABANG ERIS`
-- `ID LINE: switchkiler`
+- `ID LINE: line.me/ti/p/~switchkiler`
 
-# Thanks to 
-
-   `SWITCH KILLER`
-`[TEAM CYBER BOT]`
+# Thanks to all
