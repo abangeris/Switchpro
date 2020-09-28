@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
 #==============[ 14 asist ]==============#
-cl = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+cl = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -31,62 +31,62 @@ ka.log("Auth Token : " + str(ka.authToken))
 channel2 = LineChannel(ka)
 ka.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
-kb = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kb = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kb.log("Auth Token : " + str(kb.authToken))
 channel3 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
-kc = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kc = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kc.log("Auth Token : " + str(kc.authToken))
 channel4 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel4.channelAccessToken))
 
-kd = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kd = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kd.log("Auth Token : " + str(kd.authToken))
 channel5 = LineChannel(kd)
 kd.log("Channel Access Token : " + str(channel5.channelAccessToken))
 
-ke = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+ke = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 ke.log("Auth Token : " + str(ke.authToken))
 channel6 = LineChannel(ke)
 ke.log("Channel Access Token : " + str(channel6.channelAccessToken))
 
-kf = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kf = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kf.log("Auth Token : " + str(kf.authToken))
 channel7 = LineChannel(kf)
 kf.log("Channel Access Token : " + str(channel7.channelAccessToken))
 
-kg = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kg = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kg.log("Auth Token : " + str(kg.authToken))
 channel8 = LineChannel(kg)
 kg.log("Channel Access Token : " + str(channel8.channelAccessToken))
 
-kh = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+kh = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 kh.log("Auth Token : " + str(kh.authToken))
 channel9 = LineChannel(kh)
 kh.log("Channel Access Token : " + str(channel9.channelAccessToken))
 
-ki = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+ki = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 ki.log("Auth Token : " + str(ki.authToken))
 channel10 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel10.channelAccessToken))
 
-sw = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+sw = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
 
-sw2 = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+sw2 = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 sw2.log("Auth Token : " + str(sw2.authToken))
 channel12 = LineChannel(sw2)
 sw2.log("Channel Access Token : " + str(channel12.channelAccessToken))
 
-sw3 = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+sw3 = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 sw3.log("Auth Token : " + str(sw3.authToken))
 channel13 = LineChannel(sw3)
 sw3.log("Channel Access Token : " + str(channel13.channelAccessToken))
 
-sw4 = LineClient(authToken="YOUR TOKEN",appName="IOS\t9.18.2\tIOS\t12.4.1")
+sw4 = LineClient(authToken="EVnnzywtuZ7z3Qcjb2M9.vm9K9VwvR3CHfEAAbosMsq.3ci84sUf4ZQ601zkFnEmV0tNPr/mV6R3RL4HNAe0qdE=",appName="IOS\t9.18.2\tIOS\t12.4.1")
 sw4.log("Auth Token : " + str(sw4.authToken))
 channel14 = LineChannel(sw4)
 sw4.log("Channel Access Token : " + str(channel14.channelAccessToken))
@@ -95,9 +95,9 @@ print ("LOGIN SUKSES")
 poll = LinePoll(cl)
 call = cl
 creator = ["ueef32f0aba16a479426c357ee23277ff"]
-owner = ["ueef32f0aba16a479426c357ee23277ff"]
-admin = ["ueef32f0aba16a479426c357ee23277ff"]
-staff = ["ueef32f0aba16a479426c357ee23277ff"]
+owner = ["u54cf64f6f595af772115e69a04e4a649"]
+admin = ["u54cf64f6f595af772115e69a04e4a649"]
+staff = ["u54cf64f6f595af772115e69a04e4a649"]
 #==============================================================================
 #==============================================================================
 lineProfile = cl.getProfile()
